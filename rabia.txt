@@ -1,0 +1,1 @@
+Rabia testeur fonctionnel, actuellement elle est en formation d'Automatisation des tests
